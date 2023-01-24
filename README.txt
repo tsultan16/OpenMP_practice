@@ -1,0 +1,1 @@
+Some of the practice code that I wrote while learning OpenMP, in C. 
